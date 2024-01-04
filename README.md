@@ -7,3 +7,25 @@ Created with React + Vite, this app gives you the opportunity to search your fav
 - Run ``npm run dev`` (npm must be installed)
 
 ## Structure
+```
+src
+├─ assest
+├─ components
+|  ├─ App.jsx
+|  ├─ FilterArtist.jsx
+|  ├─ Header.jsx
+|  ├─ MusicPlayer.jsx
+|  ├─ SongCard.jsx
+|  └─ SongList.jsx
+├─ images
+├─ services
+|  ├─ api.jsx
+|  └─ localstorage.jsx
+└─ stylesheet
+   ├─ _filterArtist.scss
+   ├─ _header.scss
+   ├─ _musicPlayer.scss
+   ├─ _songCard.scss
+   ├─ _songList.scss
+   └─ App.scss
+```
