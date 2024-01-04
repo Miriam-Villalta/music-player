@@ -1,5 +1,6 @@
 # Music Player Search App
 Created with React + Vite, this app gives you the opportunity to search your favorite artists and play their songs, all in one place.
+Used deezers api: https://developers.deezer.com/api/
 
 ## How to run
 - Download the project
